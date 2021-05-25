@@ -1,0 +1,129 @@
+#title {
+background-color:aliceblue;
+font-weight: 700;
+font-size: 32px;
+font-family: "Nunito Sans", Poppins,"Source Code Pro";
+
+}
+h2 {
+    font-weight: 500;
+    font-size: 25px;
+    font-family: Poppins,"Nunito Sans";
+}
+body{
+    font-family: "Nunito Sans", Poppins,"Source Code Pro";
+    margin: 0 10%;
+}
+.container {
+
+    border: 5px solid gray;
+    margin: 0 20;
+    padding: 5px;
+    background-color:rgb(255, 254, 254);
+
+}
+#color-box {
+    margin: 0 20px;
+    padding: 0;
+
+}
+
+.box{
+font-size: 30px;
+display: inline-block;
+width: 160px;
+margin: 5px;
+padding-bottom: 30px;
+text-align: center;
+}
+
+#blue {
+    height: 20%;
+    width: 40%;
+    background-color: #2d5dcc;
+    font-family: Poppins;
+    font-size: medium;
+}
+#pink {
+    height: 20%;
+    width: 40%;
+    background-color:#d957d9;
+    font-family: Poppins;
+    font-size: medium;
+}
+
+#mintgreen {
+    height: 20%;
+    width: 40%;
+    background-color: #4fe0b0;
+    font-family: Poppins;
+    font-size: medium;
+}
+
+#beige {
+    height: 20%;
+    width: 40%;
+    background-color: #efd9ca;
+    font-family: Poppins;
+    font-size: medium;
+}
+
+#font1{
+    font-family: "Source Code Pro", monospace;
+    font-size: 25px;
+    text-decoration: underline;
+    font-weight: 400;
+}
+.one {
+font-weight: 400;
+font-style: normal;
+font-size: 17px;
+letter-spacing: 0.2em;
+word-spacing: 0.3em;
+}
+.two{
+    font-weight: 400;
+    font-weight: bold;    
+    font-size: 17px;
+    letter-spacing: 0.2em;
+    word-spacing: 0.3em;
+}
+.three {
+    font-weight: 400;
+    font-style: italic;
+    font-size: 17px;
+    letter-spacing: 0.2em;
+    word-spacing: 0.3em;
+}
+.font-box {
+   height: 20%;
+   width: 45%;
+   margin: 10px;
+   padding: 10px;
+   display: inline-block;
+
+}
+.font-box2{
+    height: 20%;
+    width: 45%;
+    margin: 10px;
+    padding: 10px;
+    display: inline-block;
+}
+   
+#Main {
+
+  background-color: white; 
+}
+#subheading {
+text-align: left;
+font-size: 18px;
+font-weight: 500;
+
+}
+ #para {
+    text-align: left;
+    font-size: 16px;
+    font-weight: 300;
+    }
+ 
